@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>jquery-mobile-contribs</artifactId>
-    <version>1.7.ga</version>
+    <version>1.7.ga-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
